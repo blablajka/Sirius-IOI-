@@ -1,2 +1,1 @@
-# Tricks_C-_for_IOI
-Tricks of future members IOI
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
